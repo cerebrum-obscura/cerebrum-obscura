@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cerebrum-obscura.github.io/cerebrum-obscura/sitemap.xml
